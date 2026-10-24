@@ -34,17 +34,19 @@ A customized edition of Pro League Rounds featuring:
 
 ---
 
-### 💼 Business Quotation System
+### ⚡ Elétrica Borges Desktop — Completed
 
-**Business Software | In Development**
+**Windows Business Software | Commercial Engineering Case Study**
 
-A practical application designed to simplify how businesses create, calculate, and manage quotations.
+A local quotation application for customer records, services and materials, itemized pricing, discounts, A4 PDFs, backup, and offline licensing. Version 1.1.0 was completed and packaged for controlled Windows x64 delivery.
 
-The project focuses on reducing manual work, improving usability, and making everyday business operations more efficient.
+**Status:** Software and installer completed; installation, production activation, and physical printing on the customer's PC remain to be verified.
 
-**Status:** In active development
+[📂 View Technical Case Study](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study)
 
-*Project documentation and demonstrations will be added as development progresses.*
+[▶ Watch the English demonstration](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study/blob/main/media/demos/eletrica-borges-demo-en.mp4) · [▶ Assista à demonstração em português](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study/blob/main/media/demos/eletrica-borges-demo-pt-br.mp4)
+
+*The public case study contains documentation, QA screenshots, and edited demonstrations using test data. Commercial source code, installer, keys, and customer records remain private. Codex assisted with the case-study documentation.*
 
 ---
 

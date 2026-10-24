@@ -44,7 +44,7 @@ A local quotation application for customer records, services and materials, item
 
 [📂 View Technical Case Study](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study)
 
-[▶ Watch the English demonstration](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study/blob/main/media/demos/eletrica-borges-demo-en.mp4) · [▶ Assista à demonstração em português](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study/blob/main/media/demos/eletrica-borges-demo-pt-br.mp4)
+[▶ Watch the English demonstration](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study#english--el%C3%A9trica-borges-desktop) · [▶ Assista à demonstração em português](https://github.com/cabrasivisco11/eletrica-borges-desktop-case-study#portugu%C3%AAs-brasil--el%C3%A9trica-borges-desktop)
 
 *The public case study contains documentation, QA screenshots, and edited demonstrations using test data. Commercial source code, installer, keys, and customer records remain private. Codex assisted with the case-study documentation.*
 

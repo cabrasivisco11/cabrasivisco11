@@ -16,7 +16,9 @@ I'm building a portfolio of real projects, with documented challenges, solutions
 
 **Drunken Wrestlers 2 | Game Systems & Technical Case Study**
 
-A customized edition of Pro League Rounds featuring:
+Pro League FullStats is a customized edition of [Pro League Rounds](https://github.com/JBRYAN333/pro-league-rounds), the original gamemode created by [Nixagorn (JBRYAN333)](https://github.com/JBRYAN333). The [FullStats edition](https://github.com/cabrasivisco11/pro-league-fullstats), customization, and integration are credited to [PREGUIÇA (cabrasivisco11)](https://github.com/cabrasivisco11), with Codex-assisted development.
+
+The case study covers:
 
 - Custom match timers and HUD integration
 - Multiple competitive match formats
@@ -30,7 +32,9 @@ A customized edition of Pro League Rounds featuring:
 
 [🎮 View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3821094797)
 
-*Based on the original Pro League Rounds by Nixagorn. Customization and integration were developed with AI-assisted tooling.*
+*The original Pause Fix and Tie Break work remain credited to Nixagorn. This project does not imply his endorsement.*
+
+**Português:** O Pro League FullStats é uma edição personalizada do [Pro League Rounds original](https://github.com/JBRYAN333/pro-league-rounds), criado por [Nixagorn (JBRYAN333)](https://github.com/JBRYAN333). A [edição FullStats](https://github.com/cabrasivisco11/pro-league-fullstats), sua personalização e integração são creditadas a [PREGUIÇA (cabrasivisco11)](https://github.com/cabrasivisco11), com assistência do Codex. Os créditos do Pause Fix original e das melhorias de Tie Break permanecem com Nixagorn. [Leia o resumo em português](https://github.com/cabrasivisco11/pro-league-fullstats/blob/main/README.pt-BR.md).
 
 ---
 
